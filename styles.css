@@ -1,1 +1,46 @@
 /* your styles will go here!! */
+
+body {
+    background: linear-gradient(180deg, rgba(167, 211, 206, 0.00) 0%, #089C8A 81.77%); 
+}
+img{
+    max-width: 100%; 
+}
+
+nav a {
+    color: #949494;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    margin: 15px;
+}
+
+h1 {
+    color: #808080;
+    font-family: Limelight;
+    font-size: 84px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 5px;
+}
+
+h2 {
+    color: #808080;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+h3 {
+    color: #494949;
+    text-align: center;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
