@@ -9,12 +9,14 @@ body {
 
 header{
     margin: 25px;
+   
 }
 
 main{
     margin: 25px;
     width: 99%;
-    margin: 0 auto:
+    margin: 0 auto;
+    text-align: center;
 }
 
 img{
