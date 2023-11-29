@@ -33,17 +33,18 @@ nav a {
     line-height: normal;
     text-decoration: none;
     margin: 15px;
-   
+    
     
 }
 
-h1 {
-    color: #808080;
+h1 a {
+    color: #6d6d6d;
     font-family: Limelight;
     font-size: 84px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    text-decoration: none;
 }
 
 
@@ -66,6 +67,6 @@ h3 {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin: 100px;
+    margin: 75px;
 }
 
