@@ -68,5 +68,67 @@ h3 {
     font-weight: 400;
     line-height: normal;
     margin: 75px;
+    text-align: center;
+}
+h4{
+color: #000;
+font-family: Limelight;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-align: center;
 }
 
+h5{
+    color: #000;
+    font-family: Limelight;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    }
+ h6{
+        color: #000;
+        font-family: Limelight;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-align: center;
+        }
+ h7{
+    color: #000;
+    font-family: Limelight;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+     }
+ h8{
+    color: #000;
+    font-family: Limelight;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;}
+ h9{
+    color: #000;
+    font-family: Limelight;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;}
+h10{
+    color: #000;
+    font-family: Limelight;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+     }
