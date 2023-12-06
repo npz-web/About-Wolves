@@ -19,9 +19,9 @@ main{
     text-align: center;
 }
 
-img{
-    width: 697px;
-    height: 463px;
+img {
+    width: 900px;
+    height: 700px;
 }
 
 nav a {
@@ -68,67 +68,18 @@ h3 {
     font-weight: 400;
     line-height: normal;
     margin: 75px;
-    text-align: center;
+    text-align: left;
 }
 h4{
 color: #000;
 font-family: Limelight;
-font-size: 16px;
+font-size: 20px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
-text-align: center;
+margin-left: 200px;
+margin-top: 8px;
+margin-bottom: 8px;
+text-align: left;
 }
 
-h5{
-    color: #000;
-    font-family: Limelight;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    text-align: center;
-    }
- h6{
-        color: #000;
-        font-family: Limelight;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        text-align: center;
-        }
- h7{
-    color: #000;
-    font-family: Limelight;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    text-align: center;
-     }
- h8{
-    color: #000;
-    font-family: Limelight;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    text-align: center;}
- h9{
-    color: #000;
-    font-family: Limelight;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    text-align: center;}
-h10{
-    color: #000;
-    font-family: Limelight;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    text-align: center;
-     }
