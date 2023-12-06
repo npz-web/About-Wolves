@@ -12,6 +12,16 @@ header{
    
 }
 
+#smallwolve img{
+    width: 100px;
+    height: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
 main{
     margin: 25px;
     width: 99%;
@@ -22,6 +32,7 @@ main{
 img {
     width: 900px;
     height: 700px;
+    margin-top: 15px; 
 }
 
 nav a {
@@ -77,9 +88,23 @@ font-size: 20px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
-margin-left: 200px;
+margin-left: 150px;
+margin-right: 800px;
 margin-top: 8px;
 margin-bottom: 8px;
 text-align: left;
 }
-
+h5{
+    color: #000;
+    font-family: Limelight;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: left;
+    
+}
