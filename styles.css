@@ -11,15 +11,17 @@ header{
     margin: 25px;
    
 }
-
+.smallwolve {
+    align-items: center;
+    display: flex;
+    text-align: center;
+}
 #smallwolve img{
-    width: 100px;
-    height: 100px;
-    margin-left: 150px;
-    margin-right: 150px;
+    width: 225px;
+    height: 225px;
     margin-top: 15px;
     margin-bottom: 15px;
-    text-align: left;
+    margin-left: 200px;
 }
 
 main{
@@ -103,6 +105,20 @@ h5{
     line-height: normal;
     margin-left: 200px;
     margin-right: 200px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: left;
+    
+}
+h6{
+    color: #000;
+    font-family: Limelight;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 200px;
+    margin-left: 10px;
     margin-top: 15px;
     margin-bottom: 15px;
     text-align: left;
