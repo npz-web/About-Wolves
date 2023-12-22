@@ -48,6 +48,7 @@ header{
     margin-top: 15px;
     margin-bottom: 15px;
     align-items: baseline;
+    text-align: center;
 }
 main{
     margin: 25px;
